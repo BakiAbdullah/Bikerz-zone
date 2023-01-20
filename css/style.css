@@ -1,0 +1,10 @@
+/* Custom CSS on Bootstrap */
+
+.carousel-indicators [data-bs-target] {
+ /* background-color: rgb(255 0 0 / 79%); */
+ background-color: rgba(0, 0, 0, 0.506);
+}
+
+.fa-solid{
+  color: rgb(255, 191, 0);
+}
